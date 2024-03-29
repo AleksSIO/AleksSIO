@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text]([http://url/to/img.png](https://i.gifer.com/J4o.gif))
+![alt text]([https://i.gifer.com/J4o.gif])
 
 <!--
 **AleksSIO/AleksSIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
