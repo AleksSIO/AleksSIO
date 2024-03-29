@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![]([https://github.com/AleksSIO/AleksSIO/blob/main/GIFProfile.gif])
+![](https://github.com/AleksSIO/AleksSIO/blob/main/GIFProfile.gif)
 
 <!--
 **AleksSIO/AleksSIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
